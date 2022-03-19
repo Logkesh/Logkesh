@@ -5,7 +5,7 @@
 #### Data Analytics
 #### ML & AI
 #### Having knowledge in,
-#### | Python | Java | C++ | C | JavaScript | CSS | HTML | W3.CSS | Bootstrap |
+#### | Python | Java | C++ | C | JavaScript | CSS | HTML | W3.CSS | Markup | Bootstrap |
 <!--
 **Logkesh/Logkesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
