@@ -1,22 +1,15 @@
-### Hello World 😄
-### This is Loki 🎇
-#### Who has more intrest in programming, problem solving, learning and exploring.
-#### Philocodist 💻
-#### Data Analytics
-#### ML & AI
-#### Having knowledge in,
-#### | Python | Java | C++ | C | JavaScript | CSS | HTML | W3.CSS | Markup | Bootstrap |
-<!--
-**Logkesh/Logkesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hello World 😄</h1>
 
-Here are some ideas to get you started:
+### This is ```LOGKESH 🎇```
+### ``` Who has more intrest in programming, problem solving, learning and exploring.```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `Philocodist 💻`
+![](https://github-readme-stats.vercel.app/api?username=Logkesh&theme=github_dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logkesh&theme=github_dark&langs_count=8)](https://github.com/Logkesh/github-readme-stats)
+
+```js
+current_knowledges = ["Data Analytics", "ML & AI"]
+```
+#### Skills ⚡
+![](https://img.shields.io/badge/%20-PYTHON-success) ![](https://img.shields.io/badge/%20-C%2B%2B-blue) ![](https://img.shields.io/badge/%20-C-lightblue) ![](https://img.shields.io/badge/%20-JAVA-pink) ![](https://img.shields.io/badge/%20-JavaScript-yellow) ![](https://img.shields.io/badge/%20-CSS-blue) ![](https://img.shields.io/badge/%20-HTML-orange) ![](https://img.shields.io/badge/%20-W3.CSS-green) ![](https://img.shields.io/badge/%20-MARKUP-brown) ![](https://img.shields.io/badge/%20-BOOTSTRAP-darkblue) ![](https://img.shields.io/badge/%20-BASH-grey) ![](https://img.shields.io/badge/%20-SHELL%20SCRIPT-red) ![](https://img.shields.io/badge/%20-SQL-voilet)
