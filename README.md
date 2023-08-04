@@ -4,7 +4,6 @@
 ### ``` Who has more intrest in programming, problem solving, learning and exploring.```
 
 ### `Programming Enthusiastic 💻`
-![](https://github-readme-stats.vercel.app/api?username=Logkesh&theme=github_dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logkesh&theme=github_dark&langs_count=8)](https://github.com/Logkesh/github-readme-stats)
 
